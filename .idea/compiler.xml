@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AI_Player" />
+        <module name="CLI" />
+        <module name="RulesProvider" />
+        <module name="NaivePlayer" />
+        <module name="NullPlayer" />
+        <module name="Tester" />
+        <module name="Migration" />
+        <module name="BoardGame" />
+        <module name="NastyPlayer" />
+        <module name="GUI" />
+        <module name="BoardGameEngine" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AI_Player" target="11" />
+      <module name="BoardGame" target="11" />
+      <module name="BoardGameEngine" target="11" />
+      <module name="CLI" target="11" />
+      <module name="GUI" target="11" />
+      <module name="Migration" target="11" />
+      <module name="NaivePlayer" target="11" />
+      <module name="NaivePlayer (1)" target="1.5" />
+      <module name="NastyPlayer" target="11" />
+      <module name="NullPlayer" target="11" />
+      <module name="Players" target="11" />
+      <module name="PP_Term5_SI_Migration" target="11" />
+      <module name="Rules" target="11" />
+      <module name="RulesProvider" target="11" />
+      <module name="Tester" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
