@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="put.ai.games.cli.AppTest" time="0.131" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="put.ai.games.cli.AppTest" time="0.133" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="idea.version" value="2021.2.3"/>
@@ -60,9 +60,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="put.ai.games.cli.AppTest" name="tab" time="0.128"/>
-  <testcase classname="put.ai.games.cli.AppTest" name="quot" time="0"/>
-  <testcase classname="put.ai.games.cli.AppTest" name="space" time="0"/>
+  <testcase classname="put.ai.games.cli.AppTest" name="tab" time="0.129"/>
+  <testcase classname="put.ai.games.cli.AppTest" name="quot" time="0.001"/>
+  <testcase classname="put.ai.games.cli.AppTest" name="space" time="0.001"/>
   <testcase classname="put.ai.games.cli.AppTest" name="eol" time="0.001"/>
-  <testcase classname="put.ai.games.cli.AppTest" name="backspace" time="0.002"/>
+  <testcase classname="put.ai.games.cli.AppTest" name="backspace" time="0.001"/>
 </testsuite>

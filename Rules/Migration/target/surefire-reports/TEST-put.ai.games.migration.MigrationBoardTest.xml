@@ -60,9 +60,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="constructorEven" time="0.002"/>
-  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="getMovesFor1" time="0.005"/>
-  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="getMovesFor2" time="0"/>
-  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="constructorOdd" time="0.001"/>
-  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="hasWinner" time="0.002"/>
+  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="hasWinner" time="0.006"/>
+  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="constructorOdd" time="0.003"/>
+  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="constructorEven" time="0"/>
+  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="getMovesFor1" time="0"/>
+  <testcase classname="put.ai.games.migration.MigrationBoardTest" name="getMovesFor2" time="0.001"/>
 </testsuite>
