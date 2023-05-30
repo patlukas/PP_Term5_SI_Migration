@@ -1,5 +1,11 @@
 # PP_Term5_SI_Migration
 
+## O projekcie
+W tym projekcie za zadanie miałem napisać plik AI_Player.java (Players/AI_Player/src/main/java/put/ai/games/aiplayer/AI_Player.java) tak, aby napisany przezemnie algorytm wygrwał z przeciwnikami. W projekcie użyłem algorytm Alfa-Beta.
+
+
+## Struktura i zmienne
+
 Zmiany z roku na rok:
 * ims-submissions/compile.php - ustawic nazwe gry
 * newDeploySource.sh - ustawic nazwe gry
